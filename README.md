@@ -1,2 +1,2 @@
-# notion-book-library-
+# Notion book library
 Script for creating your notion book library automaticly
